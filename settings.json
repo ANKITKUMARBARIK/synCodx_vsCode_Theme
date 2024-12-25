@@ -1,0 +1,39 @@
+{
+    // DEFAULT SETTINGS
+    "workbench.startupEditor": "none",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "bearded-icons",
+    "editor.stickyScroll.enabled": false,
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "MonoLisa Nerd Font Mono, Consolas, 'Courier New', monospace",
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorTheme": "Outrun Electric Meets Synthwave",
+    // MY CUSTOM SETTINGS
+    "vscode_custom_css.imports": [
+        "file:///C:/{your_username}/barik/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+    ],
+    "editor.fontLigatures": true,
+    "workbench.tree.indent": 20,
+    "editor.fontSize": 20,
+    "editor.lineHeight": 2.5,
+    "editor.fontWeight": "normal",
+    "editor.cursorStyle": "line-thin",
+    "window.zoomLevel": 1,
+    "terminal.external.linuxExec": "iterm",
+    "terminal.integrated.fontSize": 20,
+    "editor.wordWrap": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.parameterHints.enabled": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "html.suggest.html5": true,
+    "editor.hover.enabled": true,
+    "workbench.sideBar.location": "left",
+    "terminal.integrated.env.osx": {
+        "CW_NEW_SESSION": "1"
+    }
+}
